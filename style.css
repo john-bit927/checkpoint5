@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.jay{
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+
+/* header styles */
+header {
+    background-color: green;
+    color: white;
+    padding: 20px 0;
+}
+
+header h1{
+    font-style: italic;
+    margin-right: 0;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline-flex;
+    margin-right: 10px;
+}
+
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
